@@ -1,0 +1,17 @@
+3
+Entertainment:53.75
+Food:250.00
+Hello:799.12
+Entertainment:hg:2.00
+Entertainment:nihao:14.40
+Entertainment:Hello:20.00
+Hello:hi:20
+Hello:we:123.00
+Food:qwe:324.00
+Food:234:42.00
+Entertainment:we:5.00
+Entertainment:oh no:2.00
+Hello:hell:122.00
+Food:waht:23.00
+Hello:we:123.00
+Food:23:123.00
